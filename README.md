@@ -23,3 +23,8 @@ Open your web browser with url `http://localhost:8000`
 
 ### Deploy
 Copy all the files and folders inn `build/web` to your web server location.
+
+## Developer notes
+Using the package `analog_clock`. For documentation, see
+- https://pub.dev/packages/analog_clock
+- https://github.com/furkantektas/analog_clock
